@@ -2,6 +2,7 @@
 ---
 
 C++/DirectCompositionで光るウィンドウ
+![NeonFramePreview](https://raw.githubusercontent.com/Pctg-x8/NeonFrame/master/screen.png)
 
 ## Summary
 
